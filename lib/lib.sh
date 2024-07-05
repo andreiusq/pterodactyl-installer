@@ -554,3 +554,4 @@ if [ "$SUPPORTED" == false ]; then
   error "Unsupported OS"
   exit 1
 fi
+
